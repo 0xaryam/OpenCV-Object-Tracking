@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 
 ## ▶️ Run
-
+![Tracking Example](Tracking Example.png)
 ```bash
 python object_tracker.py
 ```
