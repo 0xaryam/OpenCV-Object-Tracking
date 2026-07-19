@@ -28,10 +28,12 @@ pip install -r requirements.txt
 ```
 
 ## ▶️ Run
-![Tracking Example](https://github.com/0xaryam/OpenCV-Object-Tracking/blob/main/Tracking%20Example.png)
+
 ```bash
 python object_tracker.py
 ```
+![Tracking Example](https://github.com/0xaryam/OpenCV-Object-Tracking/blob/main/Tracking%20Example.png)
+
 
 ## 🎮 Controls
 
