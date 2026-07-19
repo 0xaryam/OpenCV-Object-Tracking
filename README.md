@@ -44,7 +44,7 @@ python object_tracker.py
 
 ## 🎥 Demo
 
-![Object Tracking Demo](demo.mp4)
+![Object Tracking Demo](demo.gif)
 
 ## 👩‍💻 Author
 
